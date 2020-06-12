@@ -1,4 +1,5 @@
-# Merck Future of AI Challenge submission
+# Team NeuroTHIx codebase. 
+# 1st Place at Merck Future of AI Research Challenge.
 https://app.ekipa.de/challenge/future-of-ai/about
 
 ## Project name: 
