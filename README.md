@@ -1,9 +1,9 @@
-# Team NeuroTHIx codebase. 
-# 1st Place at Merck Future of AI Research Challenge.
+# IRENA (Invariant Representations Extraction in Neural Architectures)
+
+## Team NeuroTHIx codebase. 
+## 1st Place at Merck Future of AI Research Challenge.
 https://app.ekipa.de/challenge/future-of-ai/about
 
-## Project name: 
-IRENA (Invariant Representations Extraction in Neural Architectures)
 ## Team: 
 NeuroTHIx
 ## Team members: 
